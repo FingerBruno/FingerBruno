@@ -2,8 +2,9 @@
 
 ## I'm a Python Teacher and Data Scientist!!
 - 🎂 I'm 23 years old 
+- 🎓 I'm currently studying Computer Engeneering at Federal University of Santa Catarina(UFSC)
 - 🔭 I'm creating my Data Science projects!
-- 🌱 I’m currently learning about Big Data
+- 🌱 I’m currently learning about Big Data and 
 - 👯 I’m looking to collaborate with people who want to learn to code
 - 🥅 2021 Goals: I want to work and learn even more about data science and big data
 - ⚡ Fun fact: I love to cook and play soccer and video-games
@@ -19,7 +20,7 @@
 ## Languages and tools 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL&logoColor=007396)
+  
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
@@ -39,7 +40,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm-ide&logoColor=2C2255)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter )
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio )
+- 🤖 &nbsp;
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
 
 <!--
 **FingerBruno/FingerBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
