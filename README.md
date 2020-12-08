@@ -1,9 +1,5 @@
 ### Hi there, I'im Bruno(you can call Finger)
 
-<!--
-**FingerBruno/FingerBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## I'm a Python Teacher and Data Developer!!
 - 🎂 I'm 23 years old 
 - 🔭 I'm creating my Data Science projects!
@@ -49,5 +45,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-
+<!--
+**FingerBruno/FingerBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
