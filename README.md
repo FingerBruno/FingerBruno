@@ -15,18 +15,19 @@
 
 ## 🤝 Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left">
+<a href=""><img margin-right="5px" width="50px" src="https://icons.iconarchive.com/icons/lunartemplates/modern-social-media-squares/64/YouTube-icon.png"/></a>
+<a href="https://twitter.com/BrunoFinger"><img width="50px"src="https://icons.iconarchive.com/icons/lunartemplates/modern-social-media-squares/64/Twitter-icon.png"/></a>
+<a href="https://www.linkedin.com/in/brunofinger/"><img alt="" width="50px" src="https://icons.iconarchive.com/icons/lunartemplates/modern-social-media-squares/64/LinkedIn-icon.png"/></a>
+<a href="https://www.instagram.com/finger.bruno/"><img width="50px"src="https://icons.iconarchive.com/icons/lunartemplates/modern-social-media-squares/64/Instagram-icon.png"/></a>
+</p>
 
 <br/>
 
 ## 🛠 Languages and tools 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   
 - 📊 &nbsp;
