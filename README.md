@@ -38,12 +38,13 @@
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-AWS)
-  ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apache-spark)
-  ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apache-spark)
+  ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=)
+  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
