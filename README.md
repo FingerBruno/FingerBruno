@@ -30,7 +30,7 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   
-- 📊 &nbsp;
+- 📊 &nbsp; 
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
   ![Tableau](https://img.shields.io/badge/-Tableu-333333?style=flat&logo=tableau)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
@@ -39,7 +39,7 @@
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-AWS)
   
-- 🛢 &nbsp;
+- 🛢 &nbsp; 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apache-spark)
