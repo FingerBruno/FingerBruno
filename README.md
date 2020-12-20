@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm  Finger
+# 👋 Hi there, I'm  Bruno
 
 <br/>
 
