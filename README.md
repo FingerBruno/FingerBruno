@@ -6,7 +6,7 @@
 - 🎂 I'm 23 years old 
 - 🎓 I'm currently studying Computer Engeneering at Federal University of Santa Catarina(UFSC)
 - 🔭 I'm creating my Data Science projects!
-- 🌱 I’m currently learning about Big Data and 
+- 🌱 I’m currently learning about Big Data and Blockchain
 - 👯 I’m looking to collaborate with people who want to learn to code
 - 🥅 2021 Goals: I want to work and learn even more about data science and big data
 - ⚡ Fun fact: I love to cook and play soccer and video-games
