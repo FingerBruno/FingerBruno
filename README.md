@@ -4,7 +4,7 @@
 
 ##  👨🏻‍💻 I'm a Python Teacher and Data Scientist!!
 - 🎂 I'm 23 years old 
-- 🎓 I'm currently studying Computer Engeneering at Federal University of Santa Catarina(UFSC)
+- 🎓 I'm currently studying Computer Engeneering at UFSC and Mathmatics at FADERGS
 - 🔭 I'm creating my Data Science projects!
 - 🌱 I’m currently learning about Big Data and Blockchain
 - 👯 I’m looking to collaborate with people who want to learn to code
