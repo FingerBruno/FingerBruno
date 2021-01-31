@@ -2,7 +2,7 @@
 
 <br/>
 
-##  👨🏻‍💻 I'm a Python Teacher and Data Scientist!!
+##  👨🏻‍💻 I'm a Python Teacher!!
 - 🎂 I'm 23 years old 
 - 🎓 I'm currently studying Computer Engeneering at UFSC and Mathmatics at FADERGS
 - 🔭 I'm creating my Data Science projects!
