@@ -2,10 +2,10 @@
 
 <br/>
 
-##  👨🏻‍💻 I'm a Python Teacher!!
+##  👨🏻‍💻 I'm a Python Developer!!
 - 🎂 I'm 23 years old 
 - 🎓 I'm currently studying Computer Engeneering at UFSC
-- 🔭 I'm creating my Data Science projects!
+- 🔭 I'm creating my Binance Telegram bot!
 - 🌱 I’m currently learning about Big Data and Blockchain
 - 👯 I’m looking to collaborate with people who want to learn to code
 - 🥅 2021 Goals: I want to work and learn even more about data science and big data
