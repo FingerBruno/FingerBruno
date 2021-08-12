@@ -32,17 +32,14 @@
   
 - 📊 &nbsp; 
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
-  ![Tableau](https://img.shields.io/badge/-Tableu-333333?style=flat&logo=tableau)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
   ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikit-learn)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-AWS)
   
 - 🛢 &nbsp; 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=apache-spark)
   ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=)
   
 - ⚙️ &nbsp;
@@ -52,9 +49,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter )
-  ![QT Python](https://img.shields.io/badge/-QT-333333?style=flat&logo=qt)
 - 🤖 &nbsp;
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
 
