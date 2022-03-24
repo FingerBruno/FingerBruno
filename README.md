@@ -3,44 +3,28 @@
 <br/>
 
 ##  👨🏻‍💻 I'm a Python Developer!!
-- 🎂 I'm 23 years old 
+- 🎂 I'm 24 years old 
 - 🎓 I'm currently studying Computer Engeneering at UFSC
-- 🔭 I'm creating my Binance Telegram bot!
 - 🌱 I’m currently learning about Big Data and Blockchain
 - 👯 I’m looking to collaborate with people who want to learn to code
-- 🥅 2021 Goals: I want to work and learn even more about data science and big data
+- 🥅 2022 Goals: I want to work and learn even more about data science and big data
 - ⚡ Fun fact: I love to cook and play soccer and video-games
-
-<br/>
-
-## 🤝 Connect with me:
-
-<p align="left">
-<a href=""><img margin-right="5px" width="50px" src="https://icons.iconarchive.com/icons/lunartemplates/modern-social-media-squares/64/YouTube-icon.png"/></a>
-<a href="https://twitter.com/BrunoFinger"><img width="50px"src="https://icons.iconarchive.com/icons/lunartemplates/modern-social-media-squares/64/Twitter-icon.png"/></a>
-<a href="https://www.linkedin.com/in/brunofinger/"><img alt="" width="50px" src="https://icons.iconarchive.com/icons/lunartemplates/modern-social-media-squares/64/LinkedIn-icon.png"/></a>
-<a href="https://www.instagram.com/finger.bruno/"><img width="50px"src="https://icons.iconarchive.com/icons/lunartemplates/modern-social-media-squares/64/Instagram-icon.png"/></a>
-</p>
 
 <br/>
 
 ## 🛠 Languages and tools 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   
 - 📊 &nbsp; 
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
   ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikit-learn)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-AWS)
   
 - 🛢 &nbsp; 
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -48,8 +32,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-- 🤖 &nbsp;
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
 
 <!--
