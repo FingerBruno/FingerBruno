@@ -14,22 +14,7 @@
 <a href="https://www.elastic.co/pt/what-is/elasticsearch" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="python"  width="40" height="40"/>
 
 ## 🛠 Languages and tools 
-
-  <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python"  width="40" height="40"/ </a>
-
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  </a>
-
-  <a href="https://www.elastic.co/pt/what-is/elasticsearch" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="python"  width="40" height="40"/>
-
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>
- 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>
-    
-    
+   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow" width="30" height="30"/>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
