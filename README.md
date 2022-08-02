@@ -15,8 +15,13 @@
 ## 🛠 Languages and tools 
    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow" width="30" height="30"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SkLearn" width="30" height="30"/>
-   <img src="https://img2.gratispng.com/20180603/bch/kisspng-opencv-computer-vision-library-c-open-now-5b1390e4692f39.9683021615280089324309.jpg" alt="SkLearn" width="30" height="30"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SkLearn" width="30" height="30"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="30" height="30"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="30" height="30"/>
+   <img src="https://img.shields.io/badge/ElasticSearch-F7DF1E?style=for-the-badge&logo=elasticsearch&logoColor=black" alt="JavaScript" width="30" height="30"/>
+   
+   
+   
+      
    
    
 - 💻 &nbsp;
