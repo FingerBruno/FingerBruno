@@ -19,7 +19,7 @@
   ![](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
   ![](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
   
-- 🤖 ;
+- 🤖 &nbsp; 
   ![](https://img.shields.io/badge/ScikitLearn-1616F7?style=flat&logo=scikitlearn&logoColor=orange)
   ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
   ![](https://img.shields.io/badge/Keras-EC1919?style=flat&logo=keras&logoColor=white)
@@ -35,7 +35,7 @@
   ![](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
   ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)
 
-- 💸 ;
+- 💸 &nbsp; 
   ![](https://img.shields.io/badge/Binance-FCD535?style=flat&logo=binance&logoColor=black)
   ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
 
