@@ -20,7 +20,7 @@
   ![](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
   
 - 📊 &nbsp;   
-  ![]((https://img.shields.io/badge/Microsoft_Excel-217346?style=style=flat&logo=microsoft-excel&logoColor=white))
+  ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=style=flat&logo=microsoft-excel&logoColor=white)
   
 - 🤖
   ![](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikit-learn)
@@ -35,8 +35,8 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
+  ![](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+  ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)
 
 <!--
 **FingerBruno/FingerBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
