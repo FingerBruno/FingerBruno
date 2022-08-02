@@ -22,7 +22,7 @@
 - 🤖 ;
   ![](https://img.shields.io/badge/ScikitLearn-1616F7?style=flat&logo=scikitlearn&logoColor=orange)
   ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-  ![](https://img.shields.io/badge/Keras-EC1919?style=flat&logo=tensorflow&logoColor=white)
+  ![](https://img.shields.io/badge/Keras-EC1919?style=flat&logo=keras&logoColor=white)
   
 - 🛢 &nbsp; 
   ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
