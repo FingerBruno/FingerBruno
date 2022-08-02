@@ -8,7 +8,7 @@
 - 🎓 I'm finishing my Computer Sciencice degree in UNIRITER
 - 🌱 I’m currently learning more about Big Data and Deep Learning
 - 👯 I’m looking to collaborate with people who want to learn to code
-- ⚡ Fun fact: I am love bitcoin!
+- ⚡ Fun fact: I love bitcoin!
 
 <br/>
 
@@ -35,7 +35,9 @@
   ![](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
   ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)
 
-- 💸
+- 💸 
+  ![](https://img.shields.io/badge/Binance-FCD535?style=flat&logo=binance&logoColor=white)
+  ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
 
 <!--
 **FingerBruno/FingerBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
