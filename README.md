@@ -3,14 +3,15 @@
 <br/>
 
 ##  👨🏻‍💻 I'm a Python Developer!!
+- 🔭 I'm currently working in Web Global as a Python Developer
 - 🎂 I'm 24 years old 
-- 🎓 I'm currently studying Computer Engeneering at UFSC
-- 🌱 I’m currently learning about Big Data and Blockchain
+- 🎓 I'm finishing my Computer Sciencice degree in UNIRITER
+- 🌱 I’m currently learning more about Big Data and Deep Learning
 - 👯 I’m looking to collaborate with people who want to learn to code
-- 🥅 2022 Goals: I want to work and learn even more about data science and big data
-- ⚡ Fun fact: I love to cook and play soccer and video-games
+- ⚡ Fun fact: I am love bitcoin!
 
 <br/>
+<a href="https://www.elastic.co/pt/what-is/elasticsearch" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="python"  width="40" height="40"/>
 
 ## 🛠 Languages and tools 
 - 💻 &nbsp;
