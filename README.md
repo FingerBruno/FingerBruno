@@ -35,8 +35,8 @@
   ![](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
   ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)
 
-- 💸 
-  ![](https://img.shields.io/badge/Binance-FCD535?style=flat&logo=binance&logoColor=white)
+- 💸 ;
+  ![](https://img.shields.io/badge/Binance-FCD535?style=flat&logo=binance&logoColor=black)
   ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
 
 <!--
