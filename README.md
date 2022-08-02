@@ -11,9 +11,6 @@
 - ⚡ Fun fact: I am love bitcoin!
 
 <br/>
-<a href="https://www.elastic.co/pt/what-is/elasticsearch" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" 
-
-
 
 ## 🛠 Languages and tools 
    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow" width="30" height="30"/>
