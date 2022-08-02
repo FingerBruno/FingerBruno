@@ -15,17 +15,22 @@
 ## 🛠 Languages and tools 
    
 - 💻 &nbsp;
-  ![](https://img.shields.io/badge/ElasticSearch-F7DF1E?style=for-the-badge&logo=elasticsearch&logoColor=black)
+  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   
-- 📊 &nbsp; 
-  ![PowerBI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
-  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
-  ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikit-learn)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+- 📊 &nbsp;   
+  ![]([https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white))
+  
+- 🤖
+  ![](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikit-learn)
+  ![](https://img.shields.io/badge/ScikitLearn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+  ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   
 - 🛢 &nbsp; 
-  ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+  ![](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
