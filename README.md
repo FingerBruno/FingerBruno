@@ -24,7 +24,7 @@
    
    
 - 💻 &nbsp;
-  !([https://img.shields.io/badge/-Python-333333?style=flat&logo=python](https://img.shields.io/badge/ElasticSearch-F7DF1E?style=for-the-badge&logo=elasticsearch&logoColor=black))
+  ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-F7DF1E?style=for-the-badge&logo=elasticsearch&logoColor=black)
   
 - 📊 &nbsp; 
   ![PowerBI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)
